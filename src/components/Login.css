@@ -1,0 +1,27 @@
+.login-container{
+    display: inline-block;
+}
+
+.input-box{
+    width: 150px;
+    margin: 10px;
+}
+
+.login-button-box{
+    width: 100px;
+    margin: 10px;
+}
+.signup-button-box{
+    width: 100px;
+    margin: 10px;
+}
+
+h5{
+    color: blue;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+h5:hover{
+    opacity: 1;
+}
